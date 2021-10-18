@@ -9,5 +9,5 @@ else
 fi
 
 cd $DIR
-time 7z a -m0=lzma2 out.7z data/
+/bin/time -p 7z a -m0=lzma2 out.7z data/
 cd -
