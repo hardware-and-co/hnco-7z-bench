@@ -1,7 +1,7 @@
 Comptoir du Hardware - Benchmark compression 7zip
 =================================================
 
-Benchmark de compilation utilisé pour les tests CPU du [Comptoir du Hardware](http://www.comptoir-hardware.com/). Lance une compression en LZMA2 du dossier data/ (contenu personalisable non fourni).
+Benchmark de compilation utilisé pour les tests CPU du [Comptoir du Hardware](http://www.comptoir-hardware.com/). Lance une compression en LZMA2 du dossier data/ (contenu personalisable non fourni). Nécessite le paquet (Ubuntu/Debian) `p7zip-full`.
 
 ## Utilisation
 `./bench.sh`
